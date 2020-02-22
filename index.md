@@ -2,8 +2,7 @@
 
 **Work Experience**
 
-SFMC Engineer, Rodan &amp; Fields    |    Apr 2019 – Present | San Francisco, CA
-
+| SFMC Engineer, Rodan &amp; Fields    |    Apr 2019 – Present | San Francisco, CA |
 | - Building and optimizing campaigns to distributors and customers in the US, Canada and Australia such as Welcome, Winback, Cross Sell and Lead Generation.
 - Implementing geo-targeted omni-channel campaigns with Facebook Ads, Email and SMS. |
 
