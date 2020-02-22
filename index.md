@@ -4,8 +4,8 @@
 
 SFMC Engineer, Rodan &amp; Fields    |    Apr 2019 – Present | San Francisco, CA
 
-- Building and optimizing campaigns to distributors and customers in the US, Canada and Australia such as Welcome, Winback, Cross Sell and Lead Generation.
-- Implementing geo-targeted omni-channel campaigns with Facebook Ads, Email and SMS.
+| - Building and optimizing campaigns to distributors and customers in the US, Canada and Australia such as Welcome, Winback, Cross Sell and Lead Generation.
+- Implementing geo-targeted omni-channel campaigns with Facebook Ads, Email and SMS. |
 
 Consultant, Royal Bank of Canada    |    Apr 2018 – Apr 2019 | Toronto, ON
 
@@ -38,6 +38,6 @@ Developer, Dotfusion Digital Agency    |    Dec 2014 - Jun 2016 | Toronto, ON
 
 **Education**
 
-Tsinghua University        Sep 2009 - Jul 2013 | Beijing, China
+Tsinghua University    |    Sep 2009 - Jul 2013 | Beijing, China
 
 Bachelor of Business Administration
