@@ -1,6 +1,6 @@
 # Work Experience
 
-## SFMC Engineer, Rodan &amp; Fields
+## Salesforce Marketing Cloud Engineer, Rodan &amp; Fields
 **Apr 2019 – Present**
 _San Francisco, CA_
 - Building and optimizing campaigns to distributors and customers in the US, Canada and Australia such as Welcome, Winback, Cross Sell and Lead Generation.
