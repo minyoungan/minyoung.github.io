@@ -2,9 +2,6 @@
 layout: post
 title:  Binary Tree Level Order Traversal (easy)
 ---
-
-# Binary Tree Level Order Traversal (easy)
-
 1.  Intuition
     1.  "level-by-level traversal" BFS. (c.f. root-to-leaf uses DFS)
     2.  What is BFS? We can traverse a tree in a level-be-level order.  
